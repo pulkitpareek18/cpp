@@ -16,7 +16,7 @@ int main(){
 	cout << "~A: " << c << endl;
 	
 	int d = ~--a+b-a++/b+c--^a&c|b+7;
-	cout << "~--a+b-a++/b+c--^a&c|b+7: " << d << endl;
+	cout << "ol~--a+b-a++/b+c--^a&c|b+7: " << d << endl;
 }
 
 // Output
